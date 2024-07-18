@@ -1,7 +1,7 @@
 # 🦁 한국항공대학교 멋쟁이 사자처럼 12기 ✈️
 
 ## 👑 운영진
-- **회장:** 이희정(jjeongee) - Full-Stack
+- **회장:** 이희정(jjeongee) - Full Stack
 - **부회장:** 정원정(loopy) - Frontend
 - **운영진:** 
   - 신윤종(Vettel) - Backend
