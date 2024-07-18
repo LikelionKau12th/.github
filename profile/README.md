@@ -27,7 +27,7 @@
 **멋사이클링**은 
 
 **개발자:**
-- 권수현(sua) - Frontend 🌟
+- 권수현(sua) - Frontend 
 - 신윤종(Vettel) - Backend
 - 차정은(eltanin) - Backend
 - 강채성(Elon) - Frontend
