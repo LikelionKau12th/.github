@@ -47,7 +47,7 @@
 **우리따라왕**은 
 
 **개발자:**
-- 전유안(yaan)
-- 이희정(jjeongee) 
-- 정원정(loopy)
-- ⭐️김정환(KAI) 
+- 전유안(yaan) - Frontend
+- 정원정(loopy) - Frontend
+- 이희정(jjeongee) - Backend
+- 김정환(KAI) - Backend ⭐️
