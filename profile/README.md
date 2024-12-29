@@ -15,7 +15,6 @@
 - 박성재(sunggae)
 - 고태훈(oreo)
 - 전유안(yaan)
-- 좌민석(Ravi)
 - 권수현(sua)
 - 차정은(eltanin)
 
