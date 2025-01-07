@@ -39,7 +39,6 @@
 - 박성재(sunggae) - Frontend 🌟
 - 서준영(Ryctim) - Frontend
 - 이나경(Niicka) - Frontend
-- 좌민석(Ravi) - Backend
 - 문채영(Ari) - Backend & AI
 
 ### 3.우리 따라왕 🏃‍♂️‍➡️
